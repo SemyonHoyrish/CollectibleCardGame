@@ -1,0 +1,14 @@
+//
+// Copyright (c) 2024 Semyon Hoyrish
+//
+
+#ifndef COLLECTIBLECARDGAME_BOARDCARD_H
+#define COLLECTIBLECARDGAME_BOARDCARD_H
+
+
+class BoardCard {
+
+};
+
+
+#endif //COLLECTIBLECARDGAME_BOARDCARD_H
