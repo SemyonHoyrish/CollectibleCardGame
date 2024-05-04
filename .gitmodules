@@ -1,0 +1,3 @@
+[submodule "Force2D"]
+	path = Force2D
+	url = https://github.com/SemyonHoyrish/Force2D.git
